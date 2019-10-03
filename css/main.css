@@ -16,3 +16,23 @@ nav ul {
 h1 class="logo" {
   text-transform: uppercase;
 }
+
+main class="wrapper" {
+  background-color: #eee8d5;
+}
+
+h2 id="contents, favs, facts, types" {
+  color: #93a1a1;
+}
+
+div p class="dfn"{
+  background-color:#b58900;
+}
+
+div p class="dfn" strong {
+  color: #fff;
+}
+
+a {
+  background-color: #719e07;
+}
