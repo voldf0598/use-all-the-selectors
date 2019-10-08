@@ -26,11 +26,15 @@ h2 id="contents, favs, facts, types" {
 }
 
 div p class="dfn"{
-  background-color:#b58900;
+  background-color: #b58900;
 }
 
 div p class="dfn" strong {
   color: #fff;
+}
+
+ul rel="external">{
+  background-color: #2694d8;
 }
 
 a href="index.html" herf="history.html" herf="contact.html"{
