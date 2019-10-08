@@ -33,6 +33,42 @@ div p class="dfn" strong {
   color: #fff;
 }
 
-a {
+a href="index.html" herf="history.html" herf="contact.html"{
   background-color: #719e07;
 }
+
+rel="external" {
+  background-color: #2694d8;
+}
+
+ol li Raspberry {
+color: #719e47;
+}
+
+ul class="types"
+  li achene
+  li caryopsis
+  li fibrous drupe
+  li legume
+  li nut
+  li schizocarp
+  li silicle{
+    background-color: #657ba3;
+  }
+ul class="types"
+  li capsule
+  li Cypsela
+  li follicle
+  li loment
+  li samara
+  li silique
+  li utricle {
+background-color: #586e75;
+}
+ul class="types"
+  li caryopsis
+  li follicle
+  li nut
+  li silique {
+    background-color: #d04b16;
+  }
